@@ -1,2 +1,2 @@
 # SW_oneclick
-OneClick System at SW
+OneClick System tools at Sierra Wireless
